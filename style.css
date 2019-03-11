@@ -59,7 +59,7 @@ a:hover{
 .btn-red {
   background-color: #9F2F43;
   padding: 15px 20px;
-  margin: 20px auto;
+  margin: 30px auto;
   border-radius: 4px;
   width: 250px;
   color: #FFFFFF;
@@ -91,6 +91,7 @@ a:hover{
 .list-inline i:hover{
   color: #5e1612;
 }
+
 
 
 
